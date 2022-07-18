@@ -1,0 +1,13 @@
+
+a=str(input("enter your name:"))
+b=int(input("entr your ht number:"))
+c=str(input("enter your course name:"))
+d=int(input("enter your semister:"))
+e=int(input("enter your percentage:"))
+f=int(input("enter your rank in your class:"))
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
